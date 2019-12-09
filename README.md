@@ -9,3 +9,6 @@
 ## Other Resources
 
 [利用Tensorflow训练好的模型，来预测或识别单张图片](https://blog.csdn.net/lxq1997/article/details/83349676)
+[TensorFlow.js](https://github.com/tensorflow/tfjs)
+[js.tensorflow.api](https://js.tensorflow.org/api/latest/index.html)
+
