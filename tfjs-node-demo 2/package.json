@@ -1,0 +1,25 @@
+{
+  "name": "nodetf",
+  "version": "1.0.0",
+  "description": "node tf",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marklin",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2",
+    "@tensorflow/tfjs-node": "^0.2.3",
+    "apisauce": "^1.0.2",
+    "blob": "0.0.5",
+    "get-pixels": "^3.3.2",
+    "jpeg-js": "^0.3.4",
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.9",
+    "opencv4nodejs": "^4.14.0"
+  }
+}
