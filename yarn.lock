@@ -1105,10 +1105,10 @@ isexe@^2.0.0:
   resolved "https://registry.npm.taobao.org/isexe/download/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
-jpeg-js@^0.3.6:
-  version "0.3.6"
-  resolved "https://registry.npm.taobao.org/jpeg-js/download/jpeg-js-0.3.6.tgz#c40382aac9506e7d1f2d856eb02f6c7b2a98b37c"
-  integrity sha1-xAOCqslQbn0fLYVusC9seyqYs3w=
+jpeg-js@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.npm.taobao.org/jpeg-js/download/jpeg-js-0.4.0.tgz#39adab7245b6d11e918ba5d4b49263ff2fc6a2f9"
+  integrity sha1-Oa2rckW20R6Ri6XUtJJj/y/Govk=
 
 js-tokens@^4.0.0:
   version "4.0.0"
